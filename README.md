@@ -1,7 +1,7 @@
 # Analyze Data with SQL, such as:
 
 ## 1. Writing basic queries:
-### [Project 1: Basic SQL Operations](./project-1/)
+### [Project 1: Basic SQL Operations](./project_1.sql)
 - **Description**: Create table, insert, update, alter, and delete operations.
 ### [Project_2 :  New York Restaurants](./project-2/)
 
